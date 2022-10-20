@@ -1,2 +1,2 @@
-var name = "Max";
-console.log(name);
+const product = () => 2 * 5;
+console.log(product());
