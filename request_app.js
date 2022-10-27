@@ -32,7 +32,7 @@ function nodejsProject(req, res) {
   res.setHeader("Content-Type", "text/html");
   res.write("<html>");
   res.write("<head><title>My First Page</title></head>");
-  res.write("<body><h1>Welcome to my Node js project!</h1></body>");
+  res.write("<body><h1>Welcome to my Node js!</h1></body>");
   res.write("</html>");
   return res.end();
 }
