@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon write_form.js",
+    "start-server": "node write_form.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakshanda1234/Nodejs.git"
+  },
+  "author": "Rakshanda Wankhade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakshanda1234/Nodejs/issues"
+  },
+  "homepage": "https://github.com/rakshanda1234/Nodejs#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
